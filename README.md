@@ -1,7 +1,7 @@
 # About Me
-I'm a computer science student in university.
+I'm a university student, studying computer science.
 
-## 📫 How to reach me:
+### 📫 How to reach me:
 [E-mail](mehtaabgill@hotmail.com)
 
 <!--
