@@ -2,7 +2,7 @@
 I'm a university student, studying computer science.
 
 ### 📫 How to reach me:
-[E-mail](hello@mehtaab.dev)
+[E-mail](mailto:hello@mehtaab.dev)
 
 ## :chart_with_upwards_trend:  Stats
 [![My github stats](https://github-readme-stats.vercel.app/api?username=mehtaabGill&count_private=true&show_icons=true&title_color=41b883&icon_color=41b883&text_color=fffefe&bg_color=273849)](https://github.com/anuraghazra/github-readme-stats)
