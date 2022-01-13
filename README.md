@@ -1,6 +1,3 @@
-# About Me
-I'm a university student, studying computer science.
-
 ### 📫 How to reach me:
 [E-mail](mailto:hello@mehtaab.dev)
 
