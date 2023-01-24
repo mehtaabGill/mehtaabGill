@@ -1,12 +1,6 @@
 ### 📫 How to reach me:
 [E-mail](mailto:hello@mehtaab.dev)
 
-## :chart_with_upwards_trend:  Stats
-[![My github stats](https://github-readme-stats.vercel.app/api?username=mehtaabGill&count_private=true&show_icons=true&title_color=41b883&icon_color=41b883&text_color=fffefe&bg_color=273849)](https://github.com/anuraghazra/github-readme-stats)
-
-## Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehtaabGill&title_color=41b883&icon_color=41b883&text_color=fffefe&bg_color=273849&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Languages I've Used
 ![](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white) ![](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white) ![](https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white) ![](https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white) ![](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white) ![](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
 
